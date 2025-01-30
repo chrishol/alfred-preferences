@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoExpandMidString</key>
+	<true/>
+	<key>autoExpandSnippetsIgnoreApps</key>
+	<array>
+		<string>com.runningwithcrayons.Alfred-3</string>
+		<string>com.runningwithcrayons.Alfred-Preferences-3</string>
+		<string>com.tinyspeck.slackmacgap</string>
+		<string>com.apple.Terminal</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customSites</key>
+	<dict>
+		<key>982EA857-2438-40B6-AE97-FDA61C9643EF</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>iplayer</string>
+			<key>text</key>
+			<string>Search BBC iPlayer for '{query}'</string>
+			<key>url</key>
+			<string>https://www.bbc.co.uk/iplayer/search?q={query}</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
