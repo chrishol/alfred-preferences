@@ -1,8 +1,0 @@
-{
-  "alfredsnippet" : {
-    "snippet" : "Hi {x}, hope you're doing well!\n\nWe need to send a 1099-DIV for the payout last year, but we don't have your tax information on file.\n\nWould you be able to send me a W9 as soon as you can? A blank version is attached.\n\nI appreciate the help!\n\nThanks,\nChris",
-    "uid" : "821DD9AF-F4E1-4158-9E9A-6336B685D11F",
-    "name" : "Zesty Shareholder Friend",
-    "keyword" : ":zsf:"
-  }
-}
